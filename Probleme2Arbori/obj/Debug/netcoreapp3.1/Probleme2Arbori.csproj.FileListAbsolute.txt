@@ -1,0 +1,11 @@
+D:\C#\ConsoleApps\OOP\StructuriDeDateGenerice\Probleme2Arbori\Probleme2Arbori\bin\Debug\netcoreapp3.1\Probleme2Arbori.exe
+D:\C#\ConsoleApps\OOP\StructuriDeDateGenerice\Probleme2Arbori\Probleme2Arbori\bin\Debug\netcoreapp3.1\Probleme2Arbori.deps.json
+D:\C#\ConsoleApps\OOP\StructuriDeDateGenerice\Probleme2Arbori\Probleme2Arbori\bin\Debug\netcoreapp3.1\Probleme2Arbori.runtimeconfig.json
+D:\C#\ConsoleApps\OOP\StructuriDeDateGenerice\Probleme2Arbori\Probleme2Arbori\bin\Debug\netcoreapp3.1\Probleme2Arbori.runtimeconfig.dev.json
+D:\C#\ConsoleApps\OOP\StructuriDeDateGenerice\Probleme2Arbori\Probleme2Arbori\bin\Debug\netcoreapp3.1\Probleme2Arbori.dll
+D:\C#\ConsoleApps\OOP\StructuriDeDateGenerice\Probleme2Arbori\Probleme2Arbori\bin\Debug\netcoreapp3.1\Probleme2Arbori.pdb
+D:\C#\ConsoleApps\OOP\StructuriDeDateGenerice\Probleme2Arbori\Probleme2Arbori\obj\Debug\netcoreapp3.1\Probleme2Arbori.csprojAssemblyReference.cache
+D:\C#\ConsoleApps\OOP\StructuriDeDateGenerice\Probleme2Arbori\Probleme2Arbori\obj\Debug\netcoreapp3.1\Probleme2Arbori.AssemblyInfoInputs.cache
+D:\C#\ConsoleApps\OOP\StructuriDeDateGenerice\Probleme2Arbori\Probleme2Arbori\obj\Debug\netcoreapp3.1\Probleme2Arbori.AssemblyInfo.cs
+D:\C#\ConsoleApps\OOP\StructuriDeDateGenerice\Probleme2Arbori\Probleme2Arbori\obj\Debug\netcoreapp3.1\Probleme2Arbori.dll
+D:\C#\ConsoleApps\OOP\StructuriDeDateGenerice\Probleme2Arbori\Probleme2Arbori\obj\Debug\netcoreapp3.1\Probleme2Arbori.pdb
